@@ -11,14 +11,14 @@
         }
     },
     {
-        "address": "one1fy7f6smzld8ar5xp0fhv45yduvlurkxzr0mj8g",
+        "address": "one12fd6fx9qaqu4n4akc3wqkf39tgdma2f8q03d3f",
         "decimals": 18,
-        "totalSupply": "100000000000",
-        "name": "1SEED",
-        "symbol": "1SEED",
-        "website": "",
+        "totalSupply": "50000000",
+        "name": "CoinConnect",
+        "symbol": "CCO",
+        "website": "coinconnect.com",
         "description": {
-            "en": "..."
+            "en": "CoinConnect aims to enable seamless wallet-to-wallet transfers through distributed ledge of wallet addresses bound to email address or mobile phone numbers."
         }
     }
 ]
